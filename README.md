@@ -18,7 +18,7 @@ Incluye material, ejercicios y trabajos prácticos orientados a comprender el fu
 - Cauce y Atascos
 - CPI, Atascos RAW, Forwarding
 - MIPS. Pila, Subrutina y Convención
-- Interrupciones por Hardware - AC2025	
+- Interrupciones por Hardware
 - Entrada/Salida
 
 ## 👤 Autor
