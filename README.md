@@ -13,6 +13,8 @@ Repositorio correspondiente a la materia **Arquitectura de Computadoras**
 Repositorio de apoyo para la materia **Arquitectura de Computadoras**.  
 Incluye material, ejercicios y trabajos prácticos orientados a comprender el funcionamiento interno de los sistemas de cómputo.
 
+Incluye también, un resumen hecho por mi para el final junto a preguntas frecuentes del mismo. 😁
+
 ## 🧠 Contenidos principales
 - Subrutinas Y Pila
 - Cauce y Atascos
